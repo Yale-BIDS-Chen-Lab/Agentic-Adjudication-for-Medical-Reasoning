@@ -1,0 +1,10 @@
+openai>=1.0.0
+numpy
+tqdm
+requests
+fastapi
+uvicorn
+transformers
+torch
+pyserini
+pyjnius
