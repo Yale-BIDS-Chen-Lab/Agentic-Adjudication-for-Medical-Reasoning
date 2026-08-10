@@ -1,8 +1,10 @@
-# ACE-MR
+# Agentic Adjudication for Medical Reasoning
 
-ACE-MR is a medical question-answering pipeline that combines parametric model
-answers, local retrieval evidence, online search evidence, and verifier-based
-answer selection.
+This repository provides the implementation for "Agentic Adjudication for
+Cross-Source Evidence Management in Medical Reasoning".
+
+ACE-MR combines parametric model answers, local retrieval evidence, online
+search evidence, and verifier-based answer selection.
 
 ## Included Methods
 
